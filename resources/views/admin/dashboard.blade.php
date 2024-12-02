@@ -1,5 +1,6 @@
 <x-admincom.layout>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css"  rel="stylesheet" />
     {{-- main --}}
     <div class="grid grid-cols-6 w-full gap-3">
       <div class="col-span-4 grid grid-cols-4 w-full gap-3">
