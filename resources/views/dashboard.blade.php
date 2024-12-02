@@ -150,7 +150,7 @@
                     <p class="text-center text-xl text-text">Items is undifined</p>
                 </div>
                 @else
-                @for ($i = 0; $i < 9; $i++ )
+                @for ($i = 0; $i < count($items); $i++ )
                     <x-barang :data="$items[$i]"></x-barang>
                     
                 @endfor
