@@ -1,3 +1,4 @@
+<link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css"  rel="stylesheet" />
 <div id="aside" class="min-w-64 md:flex   hidden z-10">
     <aside class="h-screen bg-blue-400 border-r-2 min-w-64 fixed z-50 top-0 shadow-lg left-0 gap-6  py-3  flex flex-col  ">
         <div class="rounded  flex p-4 gap-3 items-center " >
