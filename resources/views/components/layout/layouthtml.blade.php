@@ -11,6 +11,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js' ])
     <link rel="shortcut icon" href="{{ asset('assets/logo.png') }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ url('css/style.css') }}">
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>WowItem</title>
 </head>
 
